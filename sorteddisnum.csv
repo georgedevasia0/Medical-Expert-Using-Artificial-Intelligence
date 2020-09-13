@@ -1,0 +1,304 @@
+Fungal infection 4,0
+Fungal infection 0,1
+Drug Reaction 4,2
+Drug Reaction 0,3
+Drug Reaction 3,4
+Drug Reaction 2,5
+Chicken pox 0,6
+Chicken pox 9,7
+Chicken pox 8,8
+Chicken pox 7,9
+Chicken pox 6,10
+Chicken pox 5,11
+Chicken pox 4,12
+Chicken pox 3,13
+Fungal infection 3,14
+Fungal infection 2,15
+Drug Reaction 1,16
+Jaundice 8,17
+Jaundice 0,18
+Jaundice 7,19
+Jaundice 6,20
+Jaundice 5,21
+Jaundice 4,22
+Jaundice 3,23
+Chronic cholestasis 7,24
+Chronic cholestasis 0,25
+Chronic cholestasis 6,26
+Chronic cholestasis 5,27
+Chronic cholestasis 4,28
+Chronic cholestasis 3,29
+Jaundice 2,30
+Chicken pox 2,31
+Hepatitis B 0,32
+Hepatitis B 8,33
+Hepatitis B 7,34
+Hepatitis B 6,35
+Hepatitis B 5,36
+Hepatitis B 4,37
+Hepatitis B 3,38
+Hepatitis B 2,39
+Chronic cholestasis 2,40
+Fungal infection 1,41
+Dengue 2,42
+Dengue 3,43
+Dengue 1,44
+Dengue 0,45
+Dengue 9,46
+Dengue 8,47
+Dengue 7,48
+Dengue 6,49
+Dengue 5,50
+Psoriasis 6,51
+Psoriasis 0,52
+Psoriasis 5,53
+Psoriasis 4,54
+Psoriasis 3,55
+Drug Reaction 5,56
+Chicken pox 1,57
+Impetigo 5,58
+Impetigo 0,59
+Impetigo 4,60
+Impetigo 3,61
+Acne 4,62
+Acne 0,63
+Acne 3,64
+Acne 2,65
+Psoriasis 2,66
+Impetigo 2,67
+Allergy 4,68
+Allergy 0,69
+Allergy 3,70
+Common Cold 0,71
+Common Cold 8,72
+Common Cold 7,73
+Common Cold 6,74
+Common Cold 5,75
+Common Cold 4,76
+Common Cold 3,77
+Allergy 2,78
+Common Cold 2,79
+Allergy 1,80
+Dengue 4,81
+Tuberculosis 0,82
+Tuberculosis 8,83
+Tuberculosis 7,84
+Tuberculosis 6,85
+Tuberculosis 5,86
+Tuberculosis 4,87
+Typhoid 6,88
+Typhoid 7,89
+Typhoid 5,90
+Typhoid 4,91
+Typhoid 3,92
+Typhoid 2,93
+Typhoid 1,94
+Typhoid 0,95
+Tuberculosis 3,96
+Malaria 1,97
+Malaria 0,98
+Malaria 7,99
+Malaria 6,100
+Malaria 5,101
+Malaria 4,102
+Tuberculosis 2,103
+Pneumonia 1,104
+Pneumonia 0,105
+Pneumonia 8,106
+Pneumonia 7,107
+Pneumonia 6,108
+Common Cold 1,109
+Pneumonia 5,110
+Pneumonia 4,111
+Typhoid 8,112
+Pneumonia 3,113
+Malaria 3,114
+Hepatitis E 1,115
+Hepatitis E 0,116
+Hepatitis E 8,117
+Hepatitis E 7,118
+Hepatitis E 6,119
+Hepatitis D 9,120
+Hepatitis D 0,121
+Hepatitis E 5,122
+Hepatitis D 8,123
+Hepatitis D 7,124
+Hepatitis D 6,125
+Hepatitis D 5,126
+Hepatitis D 4,127
+Hepatitis E 4,128
+hepatitis A 0,129
+hepatitis A 8,130
+Hepatitis D 3,131
+hepatitis A 7,132
+hepatitis A 6,133
+hepatitis A 5,134
+hepatitis A 4,135
+hepatitis A 3,136
+Hepatitis E 3,137
+Hepatitis D 2,138
+hepatitis A 2,139
+Osteoarthristis 6,140
+Osteoarthristis 0,141
+Osteoarthristis 5,142
+Osteoarthristis 4,143
+Osteoarthristis 3,144
+Osteoarthristis 2,145
+Psoriasis 1,146
+GERD 5,147
+GERD 0,148
+GERD 4,149
+GERD 3,150
+GERD 2,151
+GERD 1,152
+GERD 6,153
+Migraine 9,154
+Migraine 0,155
+Migraine 8,156
+Migraine 7,157
+Migraine 6,158
+Migraine 5,159
+Migraine 4,160
+Migraine 3,161
+Migraine 2,162
+AIDS 4,163
+AIDS 0,164
+AIDS 3,165
+AIDS 2,166
+Hypoglycemia 1,167
+Hypoglycemia 0,168
+Hypoglycemia 8,169
+Hypoglycemia 7,170
+Hypoglycemia 6,171
+Hypoglycemia 5,172
+Tuberculosis 1,173
+Jaundice 1,174
+Hepatitis E 2,175
+Hypoglycemia 4,176
+Hepatitis D 1,177
+Hypoglycemia 3,178
+Malaria 2,179
+Gastroenteritis 4,180
+Gastroenteritis 0,181
+Gastroenteritis 3,182
+Heart attack 4,183
+Heart attack 0,184
+Heart attack 3,185
+Heart attack 2,186
+Gastroenteritis 2,187
+Peptic ulcer diseae 5,188
+Peptic ulcer diseae 6,189
+Peptic ulcer diseae 4,190
+Peptic ulcer diseae 3,191
+Peptic ulcer diseae 1,192
+(vertigo) Paroymsal  Positional Vertigo 6,193
+(vertigo) Paroymsal  Positional Vertigo 0,194
+(vertigo) Paroymsal  Positional Vertigo 5,195
+(vertigo) Paroymsal  Positional Vertigo 4,196
+(vertigo) Paroymsal  Positional Vertigo 3,197
+Paralysis (brain hemorrhage) 4,198
+Paralysis (brain hemorrhage) 0,199
+Paralysis (brain hemorrhage) 3,200
+hepatitis A 1,201
+Chronic cholestasis 1,202
+Alcoholic hepatitis 7,203
+Alcoholic hepatitis 0,204
+Alcoholic hepatitis 6,205
+Alcoholic hepatitis 5,206
+Alcoholic hepatitis 4,207
+Alcoholic hepatitis 3,208
+(vertigo) Paroymsal  Positional Vertigo 2,209
+Peptic ulcer diseae 0,210
+Alcoholic hepatitis 2,211
+Paralysis (brain hemorrhage) 2,212
+Urinary tract infection 4,213
+Urinary tract infection 0,214
+Urinary tract infection 3,215
+Urinary tract infection 2,216
+Hypothyroidism 0,217
+Hypothyroidism 7,218
+Hypothyroidism 6,219
+Hypothyroidism 5,220
+Hypothyroidism 4,221
+Hypothyroidism 3,222
+Hypoglycemia 2,223
+Hypothyroidism 2,224
+Hyperthyroidism 0,225
+Hyperthyroidism 8,226
+Hyperthyroidism 7,227
+Hyperthyroidism 6,228
+Hyperthyroidism 5,229
+Hyperthyroidism 4,230
+Hyperthyroidism 3,231
+Diabetes  0,232
+Diabetes  8,233
+Diabetes  7,234
+Diabetes  6,235
+Diabetes  5,236
+Diabetes  4,237
+Hyperthyroidism 2,238
+Diabetes  3,239
+Diabetes  2,240
+Hepatitis B 1,241
+Pneumonia 2,242
+Bronchial Asthma 6,243
+Bronchial Asthma 0,244
+Bronchial Asthma 5,245
+Bronchial Asthma 4,246
+Bronchial Asthma 3,247
+Bronchial Asthma 2,248
+Hepatitis C 6,249
+Hepatitis C 1,250
+Hepatitis C 0,251
+Hepatitis C 5,252
+Hepatitis C 4,253
+Hepatitis C 3,254
+Varicose veins 7,255
+Varicose veins 0,256
+Varicose veins 6,257
+Varicose veins 5,258
+Varicose veins 4,259
+Varicose veins 3,260
+Varicose veins 2,261
+Hypothyroidism 1,262
+Hyperthyroidism 1,263
+Diabetes  1,264
+AIDS 1,265
+Bronchial Asthma 1,266
+Impetigo 1,267
+Gastroenteritis 1,268
+Heart attack 1,269
+Migraine 1,270
+Peptic ulcer diseae 2,271
+(vertigo) Paroymsal  Positional Vertigo 1,272
+Hypertension  5,273
+Hypertension  0,274
+Hypertension  4,275
+Hypertension  3,276
+Hypertension  2,277
+Paralysis (brain hemorrhage) 1,278
+Hepatitis C 2,279
+Alcoholic hepatitis 1,280
+Cervical spondylosis 5,281
+Cervical spondylosis 0,282
+Cervical spondylosis 4,283
+Cervical spondylosis 3,284
+Cervical spondylosis 2,285
+Dimorphic hemmorhoids(piles) 5,286
+Dimorphic hemmorhoids(piles) 0,287
+Dimorphic hemmorhoids(piles) 4,288
+Dimorphic hemmorhoids(piles) 3,289
+Dimorphic hemmorhoids(piles) 2,290
+Hypertension  1,291
+Cervical spondylosis 1,292
+Dimorphic hemmorhoids(piles) 1,293
+Osteoarthristis 1,294
+Varicose veins 1,295
+Arthritis 5,296
+Arthritis 0,297
+Arthritis 4,298
+Arthritis 3,299
+Arthritis 2,300
+Arthritis 1,301
+Urinary tract infection 1,302
+Acne 1,303
